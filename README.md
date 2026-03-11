@@ -39,9 +39,9 @@ RPG Battle Terminal é um jogo de batalha por turnos para **2 jogadores** no mes
 | Classe | HP | PM | CA | Dado de Dano | Estilo |
 |--------|----|----|-----|--------------|--------|
 | ⚔️ Guerreiro  | 100 | 8  | 14 | 1d12 | Tanque corpo a corpo |
-| 🔮 Mago    | 70  | 20 | 11 | 1d6  | Alto dano mágico     |
-| 🏹 Arqueiro   | 80  | 12 | 13 | 1d8  | Arqueiro ágil        |
-| ⚡ Feiticeiro | 75  | 18 | 11 | 1d6  | Feiticeiro arcano    |
+| 🔮 Mago    | 80 | 20 | 11 | 1d6  | Alto dano mágico     |
+| 🏹 Arqueiro   | 80 | 12 | 13 | 1d8  | Arqueiro ágil        |
+| ⚡ Feiticeiro | 90  | 18 | 11 | 1d6  | Feiticeiro arcano    |
 
 ### Habilidades
 
